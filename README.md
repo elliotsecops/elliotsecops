@@ -32,6 +32,8 @@ Cloud Security, DevOps, Container Security, Infrastructure as Code (IaC), Kubern
 
 **Containerization:**  
 [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
+
 
 **Infrastructure as Code:**  
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
@@ -49,7 +51,6 @@ Cloud Security, DevOps, Container Security, Infrastructure as Code (IaC), Kubern
 * Burp Suite
 
 **Other Key Tools:**  
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
 * Ansible
 * GitHub Actions
 
