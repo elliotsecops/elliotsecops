@@ -11,7 +11,8 @@ Cybersecurity Engineer, Cloud Security Engineer & DevSecOps. Passionate about au
 ## Skills
 
 **Technical Skills:**  
-Cloud Security, DevOps, Container Security, Infrastructure as Code (IaC), Kubernetes, Ansible, Docker, Terraform, Python, Go, Bash, Cybersecurity tools (Kali Linux, Nmap, Metasploit, Wireshark, Burp Suite), GitHub Actions
+Cloud Security, DevOps, Container Security, Infrastructure as Code (IaC), Kubernetes, Ansible, Docker, Terraform, Python, Go, Bash,
+Cybersecurity tools (Kali Linux, Nmap, Metasploit, Wireshark, Burp Suite), GitHub Actions
 
 **Soft Skills:**  
 * Communication (written and verbal, technical and non-technical)
