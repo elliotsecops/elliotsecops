@@ -2,6 +2,7 @@
 
 Cybersecurity Engineer, Cloud Security Engineer & DevSecOps. Passionate about automating security and building robust cloud infrastructure. Focused on container security and Infrastructure as Code (IaC).
 
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Elliot Animation" width="200" />
 
 <p>
   📫 Reach me: elliotsecops@protonmail.com
@@ -10,8 +11,7 @@ Cybersecurity Engineer, Cloud Security Engineer & DevSecOps. Passionate about au
 ## Skills
 
 **Technical Skills:**  
-Cloud Security, DevOps, Container Security, Infrastructure as Code (IaC), Kubernetes, Ansible, Docker, Terraform, Python, Go, Bash,
-Cybersecurity tools (Kali Linux, Nmap, Metasploit, Wireshark, Burp Suite), GitHub Actions
+Cloud Security, DevOps, Container Security, Infrastructure as Code (IaC), Kubernetes, Ansible, Docker, Terraform, Python, Go, Bash, Cybersecurity tools (Kali Linux, Nmap, Metasploit, Wireshark, Burp Suite), GitHub Actions
 
 **Soft Skills:**  
 * Communication (written and verbal, technical and non-technical)
@@ -50,7 +50,7 @@ Cybersecurity tools (Kali Linux, Nmap, Metasploit, Wireshark, Burp Suite), GitHu
 * Burp Suite
 
 **Other Key Tools:**  
-* Kubernetes
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
 * Ansible
 * GitHub Actions
 
