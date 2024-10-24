@@ -2,7 +2,6 @@
 
 Cybersecurity Engineer, Cloud Security Engineer & DevSecOps. Passionate about automating security and building robust cloud infrastructure. Focused on container security and Infrastructure as Code (IaC).
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Elliot Animation" width="200" />
 
 <p>
   📫 Reach me: elliotsecops@protonmail.com
