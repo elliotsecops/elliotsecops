@@ -1,6 +1,6 @@
 # Hi 👋, I'm Elliot
 
-Cybersecurity and software engineer specializing in Go. Experienced in developing security tools and automating security processes. Proficient in identifying and mitigating vulnerabilities, enhancing cloud security posture, and creating robust, secure applications. Passionate about leveraging Go to build innovative solutions that improve the security and reliability of systems.
+Software architect specializing in Go. Experienced in developing security tools and automating security processes. Proficient in identifying and mitigating vulnerabilities, enhancing cloud security posture, and creating robust, secure applications. Passionate about leveraging Go to build innovative solutions that improve the security and reliability of systems.
 
 
 
