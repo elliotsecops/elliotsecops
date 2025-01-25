@@ -1,6 +1,6 @@
 # Hi 👋, I'm Elliot
 
-Software architect specializing in Go. Experienced in developing security tools and automating security processes. Proficient in identifying and mitigating vulnerabilities, enhancing cloud security posture, and creating robust, secure applications. Passionate about leveraging Go to build innovative solutions that improve the security and reliability of systems.
+Security engineer focused on cloud & devsecops. Experienced in developing security tools and automating security processes. Proficient in identifying and mitigating vulnerabilities, enhancing cloud security posture, and creating robust, secure applications. Passionate about leveraging Go to build innovative solutions that improve the security and reliability of systems.
 
 
 
@@ -11,7 +11,7 @@ Software architect specializing in Go. Experienced in developing security tools 
 ## Skills
 
 **Technical Skills:**  
-Software Architecture, Cloud Security, DevOps, Container Security, Infrastructure as Code (IaC), Kubernetes, Ansible, Docker, Terraform, Python, Go, Bash, Cybersecurity tools (Kali Linux, Nmap, Metasploit, Wireshark, Burp Suite), GitHub Actions
+Security Engineer, Cloud Security, DevOps, Container Security, Infrastructure as Code (IaC), Kubernetes, Ansible, Docker, Terraform, Python, Go, Bash, Cybersecurity tools (Kali Linux, Nmap, Metasploit, Wireshark, Burp Suite), GitHub Actions, Secure Software Architecture.
 
 **Soft Skills:**  
 * Communication (written and verbal, technical and non-technical)
@@ -72,7 +72,7 @@ Software Architecture, Cloud Security, DevOps, Container Security, Infrastructur
 ## Learning
 
 Currently expanding my knowledge in:
-* Cloud Security Best Practices (Working towards AWS Certified Security - Specialty certification)
+* Cloud Security Best Practices (Working towards GCP Security - Specialty certification)
 * Advanced Kubernetes Security (Developing a personal project on Kubernetes security auditing)
 * Zero Trust Architecture
 
