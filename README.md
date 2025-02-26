@@ -5,7 +5,7 @@ Security engineer focused on cloud & devsecops. Experienced in developing securi
 
 
 <p>
-  📫 Reach me: elliotsecops@protonmail.com
+  📫 Reach me: contact@elliotsecops.com
 </p>
 
 ## Skills
