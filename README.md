@@ -11,11 +11,11 @@ I build secure financial infrastructure for LATAM. Currently solo-founding a neo
 
 ## Currently Building: LATAM Neobank
 
-I'm the solo technical founder of a neobank operating across Latin America, processing real funds on 7 different blockchains. This isn't a side project. It's production financial infrastructure where a single bug means real money disappears.
+I'm the solo technical founder of a LATAM neobank in pre-launch beta (~95%). The system is designed to process real funds across 7 blockchains. I architected it secure-by-design from day one, which meant finding and fixing 31+ vulnerabilities before a single user touched the platform.
 
 **What that means in practice:**
 
-- **Real funds, real risk.** Every line of code I write handles deposits, withdrawals, and balance movements that affect actual users.
+- **Real funds, real risk.** The codebase handles deposit attribution, withdrawal validation, and balance reconciliation across multiple chains. Every transaction path has been threat-modeled before writing the first endpoint.
 - **7 blockchain integrations.** Each with its own key management model, transaction finality guarantees, and reconciliation logic.
 - **Zero room for "good enough" security.** When you're the only technical person and the treasury is live, security isn't a checklist. It's survival.
 
