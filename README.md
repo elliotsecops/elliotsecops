@@ -62,19 +62,21 @@ This isn't theoretical. I've done incident response on live financial systems â€
 
 ## What I Do For Other Startups
 
-Building my own fintech taught me something most security consultants don't understand: **security that slows down shipping is security that gets bypassed.**
+Building financial infrastructure and analyzing production Web3 protocols taught me something most security consultants don't understand: **security that slows down shipping is security that gets bypassed.**
 
-I operate as a **fractional security engineer** for startups with fresh funding and no security team. I don't deliver PDF audits that sit in a drawer. I write the Terraform, the Ansible playbooks, the Go tools, and the CI/CD pipelines that actually fix the gaps.
+I work with startups building systems where security failures have real consequences â€” financial infrastructure, Web3 protocols, cloud-native applications, and platforms handling sensitive data or critical operations.
+
+I don't deliver PDF audits that sit in a drawer. I help teams identify architectural risks, improve security posture, and implement controls that survive contact with production.
 
 **I help with:**
 
-- **Cloud Security Posture:** Hardening AWS and GCP environments, IAM lockdown, network policies, SOC 2 prep
-- **Container & Kubernetes Security:** Image scanning, runtime policies, secrets management, RBAC, zero-downtime secure deployments
-- **Application Security:** API vulnerability assessment, auth review, secure CI/CD design, dependency scanning
-- **Linux Hardening & Monitoring:** Automated server hardening with Ansible, Wazuh SIEM, file integrity monitoring
-- **Network Security:** Traffic analysis, anomaly detection, reconnaissance tooling, secure tunneling
+* **Cloud Security & Architecture:** AWS/GCP hardening, IAM design, network segmentation, infrastructure reviews, and operational resilience
+* **DevSecOps & Platform Engineering:** Secure CI/CD pipelines, container security, Kubernetes security, secrets management, and deployment workflows
+* **Application Security:** Authentication, authorization, API security, dependency risk, threat modeling, and secure system design
+* **Web3 Security Research:** Protocol reviews, smart contract risk analysis, protocol accounting, staking systems, vaults, lending markets, and vulnerability disclosure workflows
+* **Operational Security:** Monitoring, incident response readiness, observability, and security automation
 
-**The difference:** I've been the founder who gets the 3 AM alert because a deposit didn't reconcile. I know which security fixes unblock enterprise deals and which ones are theater.
+**The difference:** I've been the founder responsible for protecting real funds, handling incident response, and making security decisions under operational pressure. I understand both the engineering reality and the security requirements of systems that cannot afford to fail.
 
 ---
 
