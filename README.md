@@ -1,21 +1,43 @@
 # Gabriel Palacios - Alias: Elliot
 
-**Security Engineer · Fintech Founder · DevSecOps · Ethical Hacking**
+**Security Engineer · Fintech Founder · Web3 Security Researcher · DevSecOps**
 
-I build secure financial infrastructure for LATAM. Currently solo-founding a neobank handling real funds across 7 blockchains (EVM, Solana, and Stellar) while helping other early-stage startups harden their systems before they become headlines.
+I build secure financial infrastructure for LATAM and research security across Web3, cloud, and containerized systems. Currently solo-founding a neobank handling real funds across 7 blockchains (EVM, Solana, and Stellar), while also building private-beta infrastructure for vulnerability intake, triage, and responsible disclosure.
 
 📫 elliotsecops@protonmail.com  
-🐦 [Twitter](https://twitter.com/elliotsecops) — 5,200+ engineers, founders, and security folks
+🐦 [Twitter](https://twitter.com/elliotsecops) — 5,300+ engineers, founders, and security folks
 
 ---
 
-## Currently Building: LATAM Neobank
+## Currently Building: Financial & Web3 Security Infrastructure
 
 I'm the solo technical founder of a LATAM neobank in pre-launch beta (~95%). The system is designed to process real funds across 7 blockchains. I architected it secure-by-design from day one, which meant finding and fixing 31+ vulnerabilities before a single user touched the platform.
 
+I'm also building a private-beta Web3 security workflow focused on vulnerability intake, triage, duplicate handling, and responsible disclosure for protocols and researchers.
+
+Both projects are driven by the same question: how do you build systems that can safely manage trust, money, and security at scale?
+
 **What that means in practice:**
 
-- **Real funds, real risk.** The codebase handles deposit attribution, withdrawal validation, and balance reconciliation across multiple chains. Every transaction path has been threat-modeled before writing the first endpoint.
+**Beyond Financial Infrastructure**
+
+Beyond building financial infrastructure, I actively research vulnerabilities across DeFi, staking, vault, lending, and protocol accounting systems.
+
+My work includes analyzing Solidity and Rust codebases across EVM, Solana, and Substrate ecosystems, with a focus on:
+
+* Protocol accounting and state desynchronization
+* Vault inflation and share-price manipulation
+* Liquidation and margin edge cases
+* Oracle and pricing assumptions
+* Staking and validator reward mechanisms
+* Access-control failures and privilege boundaries
+* Token issuance and redemption logic
+* Economic exploits and fund-loss scenarios
+* Cross-contract and integration risk
+
+My research has involved protocol reviews and vulnerability disclosures across Ethereum, Arbitrum, Solana, BNB Chain, and Polkadot ecosystems, including lending markets, liquid staking protocols, vault architectures, yield-generating infrastructure, validator systems, and protocol accounting layers.
+
+**Real funds, real risk.** The Neobank in development codebase handles deposit attribution, withdrawal validation, and balance reconciliation across multiple chains. Every transaction path has been threat-modeled before writing the first endpoint.
 - **7 blockchain integrations.** Each with its own key management model, transaction finality guarantees, and reconciliation logic.
 - **Zero room for "good enough" security.** When you're the only technical person and the treasury is live, security isn't a checklist. It's survival.
 
@@ -179,29 +201,45 @@ Follow on [Twitter](https://twitter.com/elliotsecops).
 
 ## Tech Stack
 
-**Cloud:** AWS · Google Cloud Platform  
-**Blockchain:** 7 chains (EVM, Solana, and Stellar) - key management, transaction processing, reconciliation  
-**Containers & Orchestration:** Docker · Kubernetes · Helm  
-**Infrastructure as Code:** Terraform · Ansible  
-**Languages:** Go · Python · Bash · HCL  
-**Security & Monitoring:** Wazuh · Nmap · Metasploit · Wireshark · Burp Suite · Trivy  
-**CI/CD & Automation:** GitHub Actions · GitLab CI  
+**Cloud:** AWS · Google Cloud Platform · Cloudflare
+
+**Blockchain & Web3:** EVM · Solana · Stellar · DeFi Protocols · Smart Contract Security · Protocol Accounting · Transaction Processing · Key Management · Reconciliation
+
+**Smart Contract Languages:** Solidity · Rust
+
+**Containers & Orchestration:** Docker · Kubernetes · Helm
+
+**Infrastructure as Code:** Terraform · Ansible
+
+**Languages:** Go · Python · Bash · HCL
+
+**Security Research:** Web3 Vulnerability Research · Protocol Reviews · Vulnerability Disclosure · Threat Modeling · DeFi Risk Analysis
+
+**Security & Monitoring:** Wazuh · Nmap · Metasploit · Wireshark · Burp Suite · Trivy
+
+**CI/CD & Automation:** GitHub Actions · GitLab CI
+
 **Data & ML (Security Context):** scikit-learn · pandas · scapy
+
 
 ---
 
 ## Let's Work Together
 
-**If you're a startup founder with fresh funding and no security team, I can help you:**
+I work with startups building products where security failures have real consequences: financial infrastructure, Web3 protocols, cloud-native platforms, and systems handling sensitive data or critical operations.
 
-- Pass your first enterprise **security questionnaire** without making things up
-- Harden your cloud infrastructure before you scale
-- Set up monitoring and incident response that actually works
-- Build secure CI/CD pipelines that catch vulnerabilities before production
+**I can help you:**
 
-**If you're a fintech specifically:** I've lived the exact problems you're about to face. Deposit reconciliation, key custody, balance integrity, and the terror of your first production incident. I can help you avoid the mistakes I had to learn the hard way.
+* Design and harden cloud infrastructure before scale becomes a security problem
+* Build secure CI/CD pipelines and deployment workflows
+* Review application and protocol security assumptions before they become incidents
+* Improve observability, monitoring, and incident response capabilities
+* Identify architectural risks across cloud, fintech, and Web3 systems
+* Establish practical security controls without slowing product development
 
-I work on a project basis or monthly retainer. No long-term contracts required.
+**For fintech and Web3 teams specifically:** I've worked on the problems that emerge when real money, distributed systems, and security intersect — key management, reconciliation, protocol risk, operational resilience, and vulnerability handling.
+
+I work on a project basis or monthly retainer, depending on the scope and stage of the company.
 
 **📫 elliotsecops@protonmail.com**  
 **🐦 [DM me on Twitter](https://twitter.com/elliotsecops)**
